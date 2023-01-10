@@ -1,0 +1,57 @@
+1 **TEMEL GEOMETRİK ŞEKİLLER VE ÖZELLİKLERİ**
+
+
+
+-Üçgen: Birbirine doğrusal olmayan, üç köşeden oluşan çokgendir. Ayrıca iç açılarının toplamı da 180 derecedir.
+
+-Daire: Çemberin içinde kalan alana denir.
+
+-Kare: Dört köşeli olan açıların eşit olduğu ve tüm köşelerdeki açıların her birinin 90 derece eşit olduğu bir dörtgendir.
+
+-Dikdörtgen: Karşılıklı kenarları birbirine eşit, dik ve paralel olan dörtgene dikdörtgen denir. İç açıları toplamı 360 derecedir.
+
+-Paralelkenar: İki çift paralel kenarı olan ve karşılıklı açıların ölçüsü eşit olan bir dörtgendir. İç açıları toplamı 360 derecedir.
+
+-Çokgenler: Çizgi parçalarından oluşur ve eğri içermez. Farklı kenar uzunlukları ve farklı açılara dayalı kapalı yapılardır.
+
+
+
+1.1 **2 Boyutlu Şekiller**
+
+-Daire
+-Yarım daire
+-Oval
+-Üçgen
+-Kare
+-Dikdörtgen
+-Paralelkenar
+-Eşkenar Dörtgen
+-Yamuk
+-Deltoid
+-Beşgen
+-Altıgen
+.
+.
+.
+
+
+1.2 **3 Boyutlu Şekiller **
+Üç boyutlu şekillerin çoğu, bir dizi köşe, köşeleri birleştiren çizgiler ve elde edilen iç noktalar da dahil olmak üzere bu çizgiler tarafından çevrelenen yüzler olarak tanımlanabilir.
+
+-Küp: 6 yüzü, 8 köşesi ve 12 kenarı olan üç boyutlu bir şekildir. Küpün yüzleri karedir.
+Örnek: Rubik küpü
+
+-Küboid: 6 yüzü, 8 köşesi ve 12 kenarı olan üç boyutlu bir katıdır, ancak küboidin yüzleri dikdörtgen şeklindedir. 
+Örnek: Kibrit kutusu
+
+-Koni: Dairesel bir tabana sahip olan ve tepe veya tepe noktası olarak adlandırılan bir noktada yüzeyden tepeye doğru düzgün bir şekilde daralan bir katıdır. 
+Örnek: Dondurma külahı
+
+-Silindir: Kavisli bir yüzeyle birbirine bağlı iki paralel dairesel tabana sahip 3 boyutlu katı bir şekildir. Tepe noktası yoktur. 
+Örnek: Soba borusu, Pil
+
+-Küre: 	Küre, yarıçapı üç boyuta (x ekseni, y ekseni ve z ekseni) uzatılan 3 boyutlu bir düzlemde yuvarlak bir şekildir.
+Örnek: Top
+
+
+https://app.patika.dev/courses/temel-matematik/proje
